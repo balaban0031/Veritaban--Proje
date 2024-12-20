@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3p4M48a8g0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imrez\\source\\repos\\BARINAKSISTEMI\\BARINAKSISTEMI\\BARINAKSISTEMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imrez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\imrez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\imrez\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
